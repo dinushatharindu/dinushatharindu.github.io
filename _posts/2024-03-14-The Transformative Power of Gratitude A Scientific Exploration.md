@@ -66,7 +66,7 @@ Harvard Health Publishing. (2008). Positive psychology in practice. Harvard Heal
 
 Psychology Today. (2019). Gratitude. Retrieved from [https://www.psychologytoday.com/us/basics/gratitude](https://www.psychologytoday.com/us/basics/gratitude?trk=article-ssr-frontend-pulse_little-text-block)
 
-Wood, A. M., Froh, J. J., & Geraghty, A. W. A. (2008). Gratitude uniquely predicts satisfaction with life: Incremental validity above the domains and facets of the five factor model. Retrieved from [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.526.2823&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.526.2823&rep=rep1&type=pdf&trk=article-ssr-frontend-pulse_little-text-block)
+Wood, A. M., Froh, J. J., & Geraghty, A. W. A. (2008). Gratitude uniquely predicts satisfaction with life: Incremental validity above the domains and facets of the five factor model. Retrieved from [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.526.2823&rep=rep1&type=pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.526.2823&rep=rep1&type=pdf&trk=article-ssr-frontend-pulse_little-text-block)
 
 Nowak, M. A., & Roch, S. (2006). Upstream reciprocity and the evolution of gratitude. Nature, 437(7063), 1291-1298. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2197219/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2197219/?trk=article-ssr-frontend-pulse_little-text-block)
 
