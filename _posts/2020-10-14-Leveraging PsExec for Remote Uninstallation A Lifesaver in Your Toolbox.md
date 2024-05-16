@@ -1,8 +1,8 @@
 ---
 Title: Leveraging PsExec for Remote Uninstallation A Lifesaver in Your Toolbox
 date: 2021-01-21- 20:14 +0300
-categories: [Blogging, hacking,]
-tags: [blog, hacking, sysinternal,IT, tools]
+categories: [Blogging, hacking,Citrix]
+tags: [blog, hacking, sysinternal,IT, tools,Citrix]
 author: Dinusha Tharindu
 ---
 

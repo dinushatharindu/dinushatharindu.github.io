@@ -1,3 +1,11 @@
+---
+Title: Retrieving a computer's hash for intune from faulty or non bootable os
+date: 2024-05-09- 20:14 +0300
+categories: [Blogging,Intune,scripting]
+tags: [blog, scripting,IT, tools,Intune]
+author: Dinusha Tharindu
+---
+
 **Technical Article: Retrieving a Computer's Hash for Intune/AutoPilot from a Faulty/Non-Bootable Operating System**
 
 In the scenario where an operating system fails to load, retrieving a computer's hash for Intune/AutoPilot can be essential for troubleshooting and management purposes. This technical guide outlines a step-by-step process to obtain the hash using PowerShell scripts and command-line utilities.
